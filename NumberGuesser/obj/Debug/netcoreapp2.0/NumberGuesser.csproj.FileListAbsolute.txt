@@ -1,0 +1,11 @@
+/Users/kevinke/Documents/cSharp/NumberGuesser/NumberGuesser/bin/Debug/netcoreapp2.0/NumberGuesser.deps.json
+/Users/kevinke/Documents/cSharp/NumberGuesser/NumberGuesser/bin/Debug/netcoreapp2.0/NumberGuesser.runtimeconfig.json
+/Users/kevinke/Documents/cSharp/NumberGuesser/NumberGuesser/bin/Debug/netcoreapp2.0/NumberGuesser.runtimeconfig.dev.json
+/Users/kevinke/Documents/cSharp/NumberGuesser/NumberGuesser/bin/Debug/netcoreapp2.0/NumberGuesser.dll
+/Users/kevinke/Documents/cSharp/NumberGuesser/NumberGuesser/bin/Debug/netcoreapp2.0/NumberGuesser.pdb
+/Users/kevinke/Documents/cSharp/NumberGuesser/NumberGuesser/obj/Debug/netcoreapp2.0/NumberGuesser.csprojResolveAssemblyReference.cache
+/Users/kevinke/Documents/cSharp/NumberGuesser/NumberGuesser/obj/Debug/netcoreapp2.0/NumberGuesser.csproj.CoreCompileInputs.cache
+/Users/kevinke/Documents/cSharp/NumberGuesser/NumberGuesser/obj/Debug/netcoreapp2.0/NumberGuesser.AssemblyInfoInputs.cache
+/Users/kevinke/Documents/cSharp/NumberGuesser/NumberGuesser/obj/Debug/netcoreapp2.0/NumberGuesser.AssemblyInfo.cs
+/Users/kevinke/Documents/cSharp/NumberGuesser/NumberGuesser/obj/Debug/netcoreapp2.0/NumberGuesser.dll
+/Users/kevinke/Documents/cSharp/NumberGuesser/NumberGuesser/obj/Debug/netcoreapp2.0/NumberGuesser.pdb
